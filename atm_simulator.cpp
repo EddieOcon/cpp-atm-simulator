@@ -1,3 +1,17 @@
+/*
+Author: Eddie O'Con
+Assignment: ATM Simulation – Bank Account Manager
+Description: 
+Display a menu allowing users to:
+Check balance
+Deposit money
+Withdraw money
+Exit
+Use functions with prototypes to manage operations.
+Pass arguments by value and by reference where appropriate.
+Implement input validation to prevent negative deposits/withdrawals.
+*/
+
 #include <iostream>
 using namespace std;
 
